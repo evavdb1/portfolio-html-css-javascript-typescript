@@ -1,9 +1,9 @@
 # Portfolio HTML & CSS
 
-*This project is part of my web development track, covering frontend basics in HTML & CSS*
-
-*A website about iconic animals, inconsistency/layout in the pages is the result og the assignment*
-
+*This project is part of my web development track, covering frontend basics in HTML & CSS.*
+*Inconsistency/layout in the pages is the result of the assignment.*
+---
+*A website about iconic animals* 
 ---
 
 ## Tech Stack
@@ -14,8 +14,8 @@
 
 ## Features
 - Semantic HTML structure
-- Clean and organized CSS styling
-- Consistent design system
+- Reusable and shared CSS styling
+- Consistent navigation
 - Accessible markup (alt text, headings, labels)
 - Mobile‑friendly design principles
 
