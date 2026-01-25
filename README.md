@@ -1,9 +1,9 @@
 # Portfolio HTML & CSS
 
-*This project is part of my web development track, covering frontend basics in HTML & CSS.*
-*Inconsistency/layout in the pages is the result of the assignment.*
+*This project is part of my web development track, covering frontend basics in HTML & CSS.
+Inconsistency/layout in the pages is the result of the assignment.*
 ---
-*A website about iconic animals* 
+**A website about iconic animals** 
 ---
 
 ## Tech Stack
@@ -26,7 +26,7 @@
 2. open /html/index.html in web browser
 
 ---
-
+```
 portfolio-html-css/
 │
 ├── index.html
@@ -41,3 +41,4 @@ portfolio-html-css/
 ├── images/
 │
 └── README.md
+```
