@@ -3,6 +3,7 @@
 *This project is part of my web development track, covering frontend basics in HTML & CSS.
 Inconsistency/layout in the pages is the result of the assignment.*
 ---
+
 **A website about iconic animals** 
 
 ---
