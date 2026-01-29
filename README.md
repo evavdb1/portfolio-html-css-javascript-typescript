@@ -11,12 +11,14 @@ Inconsistency/layout in the pages is the result of the assignment.*
 ## Tech Stack
 - HTML5
 - CSS3
+- ES6 / ES2015
 
 ---
 
 ## Features
 - Semantic HTML structure
 - Reusable and shared CSS styling
+- scripts
 - Consistent navigation
 - Accessible markup (alt text, headings, labels)
 - Mobile‑friendly design principles
@@ -29,18 +31,46 @@ Inconsistency/layout in the pages is the result of the assignment.*
 
 ---
 ```
-portfolio-html-css/
+portfolio-html-css-javascript/
 │
-├── index.html
-├── vos.html
-├── boomkikker.html
-├── sneeuwuil.html
-├── andere.html
+├── DobbelSpel/
+│   ├── oef1_index.html
+│   │
+│   ├── css/ oef1_style.css 
+│   ├── js/ oef1_app.js
+│   └── images/
 │
-├── styles/
-│   └── style_oef3.css
+├── Iconic Animals/
+│   ├── index.html
+│   ├── andere.html
+│   ├── boomkikker.html
+│   ├── sneeuwuil.html
+│   ├── vos.html
+│   │
+│   ├── css/ style_oef3.css 
+│   └── images/...
 │
-├── images/
+├── Project Resume/
+│   ├── index.html
+│   ├── 
+│   ├── 
+│   ├── 
+│   ├── 
+│   ├── 
+│   │
+│   ├── css/
+│   │   ├── style.css
+│   │   └── 
+│   │
+│   ├── js/
+│   │   ├── main.js
+│   │   └── 
+│   │                
+│   └── assests/
+│       ├── images/
+│       │   ├── projects/
+│       │   └── photos/
+│       └── icons/
 │
 └── README.md
 ```

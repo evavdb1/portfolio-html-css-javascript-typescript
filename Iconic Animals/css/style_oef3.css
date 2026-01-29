@@ -59,7 +59,7 @@ nav::before {
     display: inline-block;
     width: 24px;
     height: 24px;
-    background: url("../images/listIcon.svg") no-repeat center / contain; 
+    background: url("../images/listIcon.svg") no-repeat center / contain;
     margin-right: 10px;
     vertical-align: middle;
 }

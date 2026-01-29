@@ -1,0 +1,91 @@
+body {
+    font-family: 'Patrick Hand', 'Courier New', monospace;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+#game::before,
+#game::after {
+    content:"🎲 🎲 🎲 🎲 🎲 🎲 🎲 🎲 🎲 🎲 🎲 🎲 🎲";
+    display: block;
+    text-align: center;
+    font-size: 32px;
+    margin: 15px 0;
+}
+
+#game {
+    display: inline-block;
+    background-color: #bb92f1 ;
+    padding: 30px 40px;
+    border-radius: 12px;
+    color: white;
+    margin-bottom: 30px;
+}
+
+#dice-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding: 15px;
+    border: 3px dotted #333;
+    margin-bottom: 15px;
+    background-color: rgba(119, 223, 236, 0.1);
+    border-radius: 8px;
+}
+
+#dice-container img {
+    width: 80px;
+    height: 80px;
+}
+
+button {
+    padding: 12px 26px;
+    font-size: 20px;
+    cursor: pointer;
+    background: #bf5ce6;
+    color:white;
+    border: 3px solid white;
+    border-radius: 8px;
+    box-shadow: 0 4px 0 #5e128a;
+    transition: all 0.1s ease;
+}
+
+button:hover {
+    background: #5e128a;
+}
+
+button:active {
+    transform: translate(4px);
+    box-shadow: none;
+}
+
+h1 {
+    font-family: 'Patrick Hand';
+    font-size: 50px;
+}
+
+h2 {
+    font-family: 'Patrick Hand';
+    font-size: 40px;
+    margin: 15px 0 8px 0; 
+    text-decoration: underline;
+}
+
+p,
+#score,
+#throws,
+ul li {
+    font-family: 'Patrick Hand';
+    font-size: 30px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+ul {
+    list-style: none;
+    margin-top: 10px;
+    text-align: center;
+    padding-left: 0;
+}
