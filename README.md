@@ -1,9 +1,10 @@
-# Portfolio HTML & CSS (Iconic Animals)
+# Portfolio HTML, CSS & Javascript (Iconic Animals)
 
-*This project is part of my web development track, covering frontend basics in HTML & CSS.
+*This project is part of my web development track, covering frontend basics in HTML, CSS and Javascript.
 Inconsistency/layout in the pages is the result of the assignment.*
 ---
 
+**A simple dice game**
 **A website about iconic animals** 
 
 ---
