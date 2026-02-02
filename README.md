@@ -40,12 +40,12 @@ portfolio-html-css-javascript/
 │   ├── js/ oef1_app.js
 │   └── images/
 │
-├── Iconic Animals/
-│   ├── index.html
-│   ├── andere.html
-│   ├── boomkikker.html
-│   ├── sneeuwuil.html
-│   ├── vos.html
-│   ├── css/ style_oef3.css 
-│   └── images/
+└── Iconic Animals/
+    ├── index.html
+    ├── andere.html
+    ├── boomkikker.html
+    ├── sneeuwuil.html
+    ├── vos.html
+    ├── css/ style_oef3.css 
+    └── images/
 ```
