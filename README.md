@@ -36,7 +36,6 @@ portfolio-html-css-javascript/
 │
 ├── DobbelSpel/
 │   ├── oef1_index.html
-│   │
 │   ├── css/ oef1_style.css 
 │   ├── js/ oef1_app.js
 │   └── images/
@@ -47,7 +46,6 @@ portfolio-html-css-javascript/
 │   ├── boomkikker.html
 │   ├── sneeuwuil.html
 │   ├── vos.html
-│   │
 │   ├── css/ style_oef3.css 
-│   └── images/...
+│   └── images/
 ```
