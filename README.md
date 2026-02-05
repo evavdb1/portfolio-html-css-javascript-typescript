@@ -1,11 +1,12 @@
-# Portfolio HTML, CSS & Javascript (Iconic Animals)
+# Portfolio HTML - CSS - Javascript -Typescript
 
-*This project is part of my web development track, covering frontend basics in HTML, CSS and Javascript.
-Inconsistency/layout in the pages is the result of the assignment.*
+*This project is part of my web development track, covering frontend basics in HTML, CSS, Javascript and Typescript.*
+
 ---
 
 **A simple dice game**
 **A website about iconic animals** 
+**A ToDo-list: add and delete tasks**
 
 ---
 
@@ -13,6 +14,7 @@ Inconsistency/layout in the pages is the result of the assignment.*
 - HTML5
 - CSS3
 - ES6 / ES2015
+- Typescript 5.9.3
 
 ---
 
@@ -23,12 +25,13 @@ Inconsistency/layout in the pages is the result of the assignment.*
 - Consistent navigation
 - Accessible markup (alt text, headings, labels)
 - Mobile‑friendly design principles
+- fully functioning applications
 
 ---
 
 ## How to Run
 1. Clone the repository
-2. open 'index.html' in web browser
+2. open each 'index.html' in web browser
 
 ---
 ```
@@ -40,12 +43,21 @@ portfolio-html-css-javascript/
 │   ├── js/ oef1_app.js
 │   └── images/
 │
-└── Iconic Animals/
-    ├── index.html
-    ├── andere.html
-    ├── boomkikker.html
-    ├── sneeuwuil.html
-    ├── vos.html
-    ├── css/ style_oef3.css 
-    └── images/
+├── Iconic Animals/
+│   ├── index.html
+│   ├── andere.html
+│   ├── boomkikker.html
+│   ├── sneeuwuil.html
+│   ├── vos.html
+│   ├── css/ style_oef3.css 
+│   └── images/
+│
+└── TODO List/
+    ├── src/    
+    │   ├── index.html
+    │   ├── index.css
+    │   ├── index.js
+    │   └── index.ts
+    │
+    └── tsconfig.json
 ```
